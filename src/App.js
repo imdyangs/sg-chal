@@ -48,12 +48,6 @@ const sortJobsByRecentDate = jobs => {
   })
 }
 
-const sortJobsByCity = jobs => {
-  return jobs.sort((a, b) => {
-    return a.citiesString - b.citiesString;
-  })
-}
-
 const JobTab = ({ job, jobs }) => {
   const [renderDescription, setRenderDescription] = useState(false);
   return (

@@ -41,6 +41,3 @@ Implementation
 This challenge doesn't have many requirements on purpose. We'd like to see how you handle ambiguity. Keep the design clean and simple. Functionality is the biggest thing we'll look at. Code quality, style, and design are all secondary.
 
 Let me know if you have any questions!
-
-- Zak
-
